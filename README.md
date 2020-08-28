@@ -1,62 +1,36 @@
-# JBlog Jekyll Theme
+# Jekyll-Uno with Projects as Timeline
+A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
-**[JBlog](http://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
+## How does is look
+[Demo](http://thomas.zuehlke.family/)
+![Screenshot](screenshot-overview.png)
+![jekyll-theme-desktop](https://user-images.githubusercontent.com/32843441/72224870-5451ff00-357f-11ea-8fc2-bfbd4499bc63.gif)
+![jekyll-theme-mobil](https://user-images.githubusercontent.com/32843441/72224877-6a5fbf80-357f-11ea-920b-dfae72bf2fbe.gif)
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+## Installation/Setup
+1. Download or clone repo `git clone https://github.com/tzuehlke/jekyll-uno-timeline.git`
+2. Enter the folder: `cd jekyll-uno-timeline/`
+3. Build it: `jekyll build`
+4. Start Jekyll server: `jekyll serve`
+5. Configure: `_config.yml`
+   * at least set `font_awesome` or download and add the font in `head.html`
 
-If you like this theme or using it, please give a **star** for motivation.
+Access via: [http://localhost:4000/](http://localhost:4000/)
 
-## Preview
-
-![Home Page](/assets/img/screenshot-home.png)    
-![Post Page](/assets/img/screenshot-post.png)
-
-See a [live version of JBlog](http://alperenbozkurt.net/JBlog) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://alperenbozkurt.net/JBlog/JBlog-theme/) for more information or apply the following instructions.
-
-## Installation
-
-- Fork the Repo
-- Edit _config.yml file.
-	- Edit url as **https**://yourusername.github.io
-	- and others
-- Remove sample posts from _posts folder and add yours.
-- Edit index.md file in about folder.
-- Change repo name to YourUserName.github.io
-- Open "Github Pages" from settings page
-- Click the star icon at the top of this page ;)
-
-
-## How to customization
-
-- You can change title, description, profile image and social network icons in _config.yml file.
-- If you are not like this colors or fonts, you can change its in _sass/variables.scss file.
-```scss
-$title-font   : Lobster, cursive;
-$menu-font    : Alegreya Sans SC, sans-serif;
-$main-font    : Roboto Slab, serif;
-```
-You can add your fonts this area.
-```scss
-// Colors
-$blue: #3498db;
-$orange: #e67e22;
-$red: #e74c3c;
-$white: #ecf0f1;
-$green: #2ecc71;
-$turko: #1abc9c;
-$purple: #9b59b6;
-$dark-blue: #34495e;
-
-$main-color: $white;
-$background-color: $blue;
-$thrid-color: rgba(52, 152, 219, 0.8);
-```
-
-$main-color is panels background color.
-$background-color is background, buttons, links color.
-$thrid-color is opacity version of background color.
-"# dbsgur.github.io" 
+## Details/Features/Changes
+* based on the [Uno-Theme](https://github.com/joshgerdes/jekyll-uno), but:
+  * removed everything with posts
+  * `content-wrapper` can be shown or hidden with button
+  * changed all icons to [Font-Awesome](https://fontawesome.com/)
+  * updated google-analytics snipped
+  * added [Meetup-Link](https://www.meetup.com/)
+  * removed RSS
+  * removed Disqus
+  * using a Timeline-Design instead of posts, therefore no pagination anymore
+* using Timeline ([CSS](https://github.com/le4ker/personal-jekyll-theme/blob/master/css/timeline.scss), [HTML](https://github.com/le4ker/personal-jekyll-theme/blob/master/_includes/timeline.html) ) from [{ Personal } Jekyll Theme](https://github.com/le4ker/personal-jekyll-theme) for a list of projects, but:
+  * still with 3 layouts for different screen-width, but without images on small screens
+  * timeline information source is now `_data/projects.yaml`
+  * always using the `timeline-inverted`-class, for text on the right side of the images
+* using [github_api.js](https://github.com/jarrekk/Jalpc/blob/master/static/js/github_api.js) from [Jalpc.](https://github.com/jarrekk/Jalpc), but:
+  * changed the GitHub-URL for using with persons and organisations
+  * added watchers number
