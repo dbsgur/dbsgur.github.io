@@ -28,23 +28,6 @@ clients:
       url: https://github.com/raviriley/agency-jekyll-theme
       logo: assets/img/clients/creative-market.jpg
 
-team:
-  title: "Introduce our TEAM"
-  text: ""
-  subtext: 한글이 되나
-  section: team
-  people:
-    - name: "Larry Parker"
-      role: "Lead Marketer"
-      image: assets/img/team/2.jpg
-      social:
-        - url: https://twitter.com
-          icon: fab fa-twitter
-        - url: https://facebook.com
-          icon: fab fa-facebook-f
-        - url: https://linkedin.com
-          icon: fab fa-linkedin-in
-
 footer:
   social:
     - url: https://coding-hyeok.tistory.com/

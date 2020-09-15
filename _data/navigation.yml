@@ -2,9 +2,6 @@ nav:
   - title: "Portfolio"
     section: portfolio
 
-  - title: "Team"
-    section: team
-
   - title: "Contact"
     section: contact
 
