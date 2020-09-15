@@ -1,12 +1,6 @@
 nav:
-  - title: "Services"
-    section: services
-
   - title: "Portfolio"
     section: portfolio
-    
-  - title: "About"
-    section: timeline
 
   - title: "Team"
     section: team
@@ -14,5 +8,5 @@ nav:
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Our TEAM"
+    url: https://instagram.com/we_six_?igshid=a2x9x2zd2al2

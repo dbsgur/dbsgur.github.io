@@ -46,7 +46,6 @@ team:
           icon: fab fa-linkedin-in
 
 footer:
-  legal: "Privacy Policy"
   social:
     - url: https://coding-hyeok.tistory.com/
       icon: "fab fa-linkedin-in"
