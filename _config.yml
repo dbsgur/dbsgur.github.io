@@ -1,36 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# If you change this file, please restart the server process.
+
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'https://dbsgur.github.io/'
-baseurl: ""
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+theme: jekyll-agency
 
-# Build settings
-destination: _site
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://dbsgur.github.io/" # the subpath of your site, e.g. /blog
+
+title      : Your Awesome Website 
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
 markdown: kramdown
-highlighter: rouge
-
-sass:
-    sass_dir: _sass
-    style: compressed
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-#plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
