@@ -11,11 +11,11 @@ caption:
   # https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
-창원대학교 수업에 대해 궁금하신 점이 있으시다구요 ? 그러면 이 챗봇을 사용해 보세요 !!!
-주소 : team2cc.herokuapp.com
+##창원대학교 수업에 대해 궁금하신 점이 있으시다구요 ? 그러면 이 챗봇을 사용해 보세요 !!!
 
 {:.list-inline}
 
-- Date : 2020년
-- Developer : 윤혁, 양경원
-- 개발 언어 : Python, firebase, Mysql, Dialogflow, Android Studio
+- Date: 2020년
+- Developer: 윤혁, 양경원
+- Language of development: Python, firebase, Mysql, Dialogflow, Android Studio
+- Site: www.team2cc.herokuapp.com

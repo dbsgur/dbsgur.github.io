@@ -1,22 +1,23 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Preparing ...
-  subtitle: Expect !
-  thumbnail: https://d34ip4tojxno3w.cloudfront.net/app/uploads/Lakeland_34421-400x300.jpg
+  title: WESIX 기사
+  subtitle: ㅎㅎㅎㅎㅎㅎ
+  thumbnail: assets/img/portfolio/article2.jpeg
 
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: WESIX 기사
+subtitle: 와글와글 창원대 신문에 실리다 ...!!!
+image: assets/img/portfolio/article1.jpeg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 ---
 
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
+###여러분들이 와글와글을 많이 사랑해주셔서  
+###학교 신문에도 실려보네요 감사합니다 ㅎㅎ
 
 {:.list-inline}
 
-- Date:
-- Client:
-- Category:
+- Date: 2020년
+- Team: WESIX
+- Site: www.와글와글.net
+- Site: http://journal.changwon.ac.kr/news/articleView.html?idxno=4112265
+- ❤️❤️❤️
