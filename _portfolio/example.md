@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: WESIX 기사
   subtitle: ㅎㅎㅎㅎㅎㅎ
-  thumbnail: assets/img/portfolio/article2.jpeg
+  thumbnail: assets/img/portfolio/article22.jpeg
 
 #what displays when the item is clicked:
 title: WESIX 기사

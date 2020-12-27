@@ -1,13 +1,13 @@
 ---
 title: 2CC(Changwon UNIV Chatbot)
 subtitle: 창원대 학생들을 위해 만든 수업에 대해 알려주는 챗봇!
-image: assets/img/portfolio/2cc.jpeg
+image: assets/img/portfolio/2ccc.jpeg
 alt: Keep Exploring
 
 caption:
   title: TEAM 2cc
   subtitle: 수업에 대해 알려줘 챗봇!
-  thumbnail: assets/img/portfolio/2cc.jpeg
+  thumbnail: assets/img/portfolio/2ccc.jpeg
   # https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
