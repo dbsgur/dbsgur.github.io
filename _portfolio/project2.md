@@ -1,20 +1,21 @@
 ---
 title: 2CC(Changwon UNIV Chatbot)
 subtitle: 창원대 학생들을 위해 만든 수업에 대해 알려주는 챗봇!
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/2cc.jpeg
 alt: Keep Exploring
 
 caption:
   title: TEAM 2cc
   subtitle: 수업에 대해 알려줘 챗봇!
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/2cc.jpeg
   # https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+창원대학교 수업에 대해 궁금하신 점이 있으시다구요 ? 그러면 이 챗봇을 사용해 보세요 !!!
+주소 : team2cc.herokuapp.com
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date : 2020년
+- Developer : 윤혁, 양경원
+- 개발 언어 : Python, firebase, Mysql, Dialogflow, Android Studio
