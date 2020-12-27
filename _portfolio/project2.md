@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: TEAM 2cc
   subtitle: 수업에 대해 알려줘 챗봇!
-  thumbnail: "![2cc](./_portfolio/2cc.jpeg)"
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
   # https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
