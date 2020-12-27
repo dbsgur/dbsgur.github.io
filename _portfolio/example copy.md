@@ -11,9 +11,9 @@ image: assets/img/portfolio/win.jpeg #main image, can be a link or a file in ass
 alt: image alt text
 ---
 
-##많은 대회를 나갔지만 첫 상을 최우수상으로 수상했습니다! ㅎㅎㅎ  
-##감사합니다  
-###아이디어는 EASY SETTLE로 나갔습니다.
+많은 대회를 나갔지만 첫 상을 최우수상으로 수상했습니다! ㅎㅎㅎ  
+감사합니다  
+아이디어는 EASY SETTLE로 나갔습니다.
 
 {:.list-inline}
 

@@ -11,7 +11,7 @@ caption:
   # https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
-##창원대학교 수업에 대해 궁금하신 점이 있으시다구요 ? 그러면 이 챗봇을 사용해 보세요 !!!
+창원대학교 수업에 대해 궁금하신 점이 있으시다구요 ? 그러면 이 챗봇을 사용해 보세요 !!!
 
 {:.list-inline}
 

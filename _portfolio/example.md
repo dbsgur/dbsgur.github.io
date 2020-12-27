@@ -11,8 +11,8 @@ image: assets/img/portfolio/article1.jpeg #main image, can be a link or a file i
 alt: image alt text
 ---
 
-###여러분들이 와글와글을 많이 사랑해주셔서  
-###학교 신문에도 실려보네요 감사합니다 ㅎㅎ
+여러분들이 와글와글을 많이 사랑해주셔서  
+학교 신문에도 실려보네요 감사합니다 ㅎㅎ
 
 {:.list-inline}
 
