@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: WagleWagle
-  subtitle: 창원대만의 소개팅 앱!
+  subtitle: 창원대만의 소개팅 웹!
   thumbnail: assets/img/portfolio/wagle.jpeg
 ---
 
@@ -18,5 +18,5 @@ caption:
 
 - Date: 2020년
 - TEAM: WESIX
-- Language of development: React, Mysql
+- Language of development: React, Mysql, AWS, NodeJS
 - Site: www.와글와글.net
