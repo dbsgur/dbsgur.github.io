@@ -20,5 +20,5 @@ alt: image alt text
 - Date: 2021년
 - TEAM: WESIX
 - Language of development: React Native, Mysql, Firebase, AWS, NodeJS
-- Android: <a>https://m.apkpure.com/kr/%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-%EB%82%B4-%EC%86%90-%EC%95%88%EC%9D%98-%EC%9E%91%EC%9D%80-%ED%95%99%EA%B5%90/com.wagleapp</a>
-- IOS: https://apps.apple.com/au/app/%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-%EB%82%B4-%EC%86%90-%EC%95%88%EC%9D%98-%EC%9E%91%EC%9D%80-%ED%95%99%EA%B5%90/id1549452503
+- Android: <a href="https://m.apkpure.com/kr/%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-%EB%82%B4-%EC%86%90-%EC%95%88%EC%9D%98-%EC%9E%91%EC%9D%80-%ED%95%99%EA%B5%90/com.wagleapp">이동하기</a>
+- IOS: <a href="https://apps.apple.com/au/app/%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-%EB%82%B4-%EC%86%90-%EC%95%88%EC%9D%98-%EC%9E%91%EC%9D%80-%ED%95%99%EA%B5%90/id1549452503">이동하기</a>
