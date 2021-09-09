@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/wagle.jpeg
 ---
 
-창원대 학생들만을 위한 소통 앱  
+창원대 학생들만을 위한 소통 웹사이트 
 코로나로 인해 심심할 학우들을 달래주기 위해 만들었습니다.  
 많이 사용해주세요❤️❤️❤️
 
@@ -19,4 +19,4 @@ caption:
 - Date: 2020년
 - TEAM: WESIX
 - Language of development: React, Mysql, AWS, NodeJS
-- Site: www.와글와글.net
+- Site: <a href="www.와글와글.net">GO</a>

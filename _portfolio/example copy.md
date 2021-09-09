@@ -19,4 +19,4 @@ alt: image alt text
 
 - Date: 2020년
 - TEAM: WESIX
-- Site: https://www.easysettle.biz/
+- Site: <a href="https://www.easysettle.biz/">EASY SETTLE</a>

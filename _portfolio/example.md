@@ -18,6 +18,6 @@ alt: image alt text
 
 - Date: 2020년
 - Team: WESIX
-- Site: www.와글와글.net
-- Site: http://journal.changwon.ac.kr/news/articleView.html?idxno=4112265
+- Site: <a href="www.와글와글.net">와글와글</a>
+- Site: <a href="http://journal.changwon.ac.kr/news/articleView.html?idxno=4112265">기사 보러가기</a>
 - ❤️❤️❤️

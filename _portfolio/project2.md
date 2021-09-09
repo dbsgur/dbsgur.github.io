@@ -18,4 +18,4 @@ caption:
 - Date: 2020년
 - Developer: 윤혁, 양경원
 - Language of development: Python, Heroku, Mysql, Dialogflow, Android Studio
-- Site: www.team2cc.herokuapp.com
+- Site: <a href="www.team2cc.herokuapp.com">www.team2cc.herokuapp.com</a>
